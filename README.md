@@ -4,7 +4,7 @@ Harvard CS50 Web Project\
 Video Demo: https://youtu.be/RFmhkoxk2LE
 
 ## Description:
-A fullstack signle mail client web application like Gmail using Django Framework and JavaScript. The Mails web application allows users to send mails, receive mails, reply mails or archive mails. 
+A fullstack mail web application like Gmail using Django Framework and JavaScript. The Mails web application is a single page application allows users to send mails, receive mails, reply mails or archive mails. 
 
 ## Tech Stack:
 
