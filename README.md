@@ -22,7 +22,7 @@ A fullstack for a signle mail client web application like Gmail using Django and
   ```
 * Initialize the database:
   ```
-  python manage.py make migrations
+  python manage.py makemigrations
   python manage.py migrate
   ```
 * Run the app locally:
